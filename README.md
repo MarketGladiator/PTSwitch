@@ -10,6 +10,12 @@ Any open trades you have when you launch ProfitTrailer (in a different market th
 This tool will allow you to run this script on the **OLD** ProfitTrailer folder and output the `XXXXXX_bought_price` for each PAIR that already contains an average price.
 
 
+Prerequisites
+-------------
+
+    [Node.js](https://docs.npmjs.com/getting-started/installing-node)
+
+
 Install
 -------
 
@@ -41,3 +47,4 @@ Usage
 
   Disclaimer: This will use current market rate, NOT the rate at the time of the trade. USE AT YOUR OWN RISK!
   ```
+  
