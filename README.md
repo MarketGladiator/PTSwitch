@@ -47,5 +47,6 @@ Usage
   WTCETH_bought_price = 0.03012962
   ZRXETH_bought_price = 0.00150555
 
-  Disclaimer: This will use current market rate, NOT the rate at the time of the trade. USE AT YOUR OWN RISK!
   ```
+
+  **Disclaimer:** This will use current market rate, NOT the rate at the time of the trade. USE AT YOUR OWN RISK!
