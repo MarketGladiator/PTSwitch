@@ -36,7 +36,7 @@ Usage
 
   **Output:**
   ```
-  Put the following into your ProfitTrailer Hot Config to set the 'BTC' prices:
+  Put the following into your ProfitTrailer Hot Config to set the 'ETH' prices:
 
   BLZETH_bought_price = 0.00078320
   LTCETH_bought_price = 0.26052368
