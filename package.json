@@ -1,0 +1,32 @@
+{
+  "name": "ptswitch",
+  "version": "1.0.0",
+  "description": "Adds missing trade data to the ProfitTrailer log file.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarketGladiator/PTSwitch.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "ptswitch": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "profit",
+    "trailer",
+    "trade",
+    "data",
+    "market",
+    "switch",
+    "log",
+    "fix"
+  ],
+  "author": "MarketGladiator",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.14.1",
+    "cryptocompare": "^0.4.0"
+  }
+}
