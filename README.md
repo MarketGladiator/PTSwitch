@@ -13,7 +13,9 @@ This tool will allow you to run this script on the **OLD** ProfitTrailer folder 
 Prerequisites
 -------------
 
-  [Node.js](https://docs.npmjs.com/getting-started/installing-node)
+  You will need have [Node.js](https://nodejs.org) installed along with [NPM](https://www.npmjs.com/) to install this application.  Use the guide below to install these tools:
+
+  [Node.js & NPM Installation Guide](https://docs.npmjs.com/getting-started/installing-node)
 
 
 Install
