@@ -13,7 +13,7 @@ This tool will allow you to run this script on the **OLD** ProfitTrailer folder 
 Prerequisites
 -------------
 
-    [Node.js](https://docs.npmjs.com/getting-started/installing-node)
+  [Node.js](https://docs.npmjs.com/getting-started/installing-node)
 
 
 Install
@@ -47,4 +47,3 @@ Usage
 
   Disclaimer: This will use current market rate, NOT the rate at the time of the trade. USE AT YOUR OWN RISK!
   ```
-  
