@@ -13,9 +13,7 @@ This tool will allow you to run this script on the **OLD** ProfitTrailer folder 
 Install
 -------
 
-    ```
     npm install ptswitch
-    ```
 
 
 Usage
