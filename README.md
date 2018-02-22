@@ -14,11 +14,7 @@ Install
 -------
 
     ```
-    git clone https://github.com/MarketGladiator/PTSwitch.git
-    
-    cd PTSwitch
-
-    npm install && npm link
+    npm install ptswitch
     ```
 
 
