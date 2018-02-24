@@ -1,6 +1,6 @@
 {
   "name": "ptswitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds missing trade data to the ProfitTrailer log file.",
   "repository": {
     "type": "git",

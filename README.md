@@ -49,3 +49,14 @@ Usage
   ```
 
   **Disclaimer:** This will use current market rate, NOT the rate at the time of the trade. USE AT YOUR OWN RISK!
+
+
+Donate
+------
+
+If you find this script useful, please consider a small donation.
+
+  - BTC address:  1EAZKnWwdgMWyRwHJxuM1x5Ue47CbFWz77
+  - ETH address:  0x66e3062A31dFDA680aDc1555f1c646d6Bb1D3274
+  - LTC address:  Li9MbeohmAjn1fcS15YR2f2hKs3oKDxZkB
+  - NANO address: xrb_1mxdnmoszfq3je95aemcf7936s3gk5nuawkj3p5p69jcqczbgwegnonhhjjw
