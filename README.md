@@ -21,7 +21,7 @@ Prerequisites
 Install
 -------
 
-    npm install ptswitch
+    npm install -g ptswitch
 
 
 Usage
